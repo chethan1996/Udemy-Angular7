@@ -1,5 +1,5 @@
 basic-assignment-1-start : 
-	ng g c componentName
+	ng g c componentName ( create component via cli)
 
 	Created module success manually with inline template and css
 	Created module warning with ng g c - further changed to class selector
